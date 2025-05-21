@@ -1,70 +1,90 @@
-# 🧠 Competitive Programming in C#
+# 🚀 Competitive Programming with C#
 
-Welcome to my **Competitive Programming** study repository! This space is dedicated to documenting and organizing my learning journey through algorithmic challenges and data structures using the **C# programming language**.
+Welcome to my **Competitive Programming Lab**, a curated collection of problem-solving adventures using the power and precision of **C#**. This repository is not just a notebook of answers—it's a journal of growth, strategy, and deep understanding of algorithms and data structures.
 
-## 💡 What is this repository?
+> ✨ "Code is like poetry—it must be elegant, expressive, and efficient." ✨
 
-This repository contains my personal solutions to programming problems from various online judges and competitive programming platforms such as:
+---
 
-- [LeetCode](https://leetcode.com)
-- [HackerRank](https://www.hackerrank.com/)
-- [Codeforces](https://codeforces.com/)
-- [AtCoder](https://atcoder.jp/)
-- [URI/Beecrowd](https://www.beecrowd.com.br/)
-- And others...
+## 📚 What You’ll Find Here
 
-## 🧩 How I solve problems
+This repository features my personal solutions to challenges from leading coding platforms:
 
-Each problem is solved using **C# (.NET)** and stored in an organized structure by platform and difficulty level.
+- 🌐 [LeetCode](https://leetcode.com)
+- 🌐 [HackerRank](https://www.hackerrank.com/)
+- 🌐 [Codeforces](https://codeforces.com/)
+- 🌐 [AtCoder](https://atcoder.jp/)
+- 🌐 [Beecrowd (URI)](https://www.beecrowd.com.br/)
 
-My approach generally follows these steps:
+Each solution is written in **C#**, combining clarity, performance, and readability.
 
-1. **Read and understand** the problem statement carefully.
-2. **Break down the problem** into simpler parts or edge cases.
-3. **Choose the right algorithm** (e.g., greedy, dynamic programming, backtracking, etc.).
-4. **Write and test** the code using C#.
-5. **Optimize** the solution when possible (both in time and space).
-6. **Document** the thought process in comments or markdown files when needed.
+---
 
-## 📁 Folder Structure
+## 🧠 My Approach to Problem Solving
 
-📦CompetitiveProgramming
+Solving a problem is not just about getting the right output—it's about **thinking like a computer scientist**. Here's my step-by-step methodology:
+
+1. **Understand the problem** deeply—no shortcuts.
+2. **Identify edge cases** and constraints.
+3. **Choose the right algorithm** (greedy, recursion, dynamic programming, etc.).
+4. **Design clean, testable C# code** using .NET standards.
+5. **Refactor and optimize** for elegance and performance.
+6. **Document and reflect**—growth comes from understanding _why_.
+
+All solutions aim to be:
+
+- ✅ Correct
+- ⚡ Efficient (time and space)
+- 📦 Reusable and readable
+
+---
+
+## 🗂️ Repository Structure
+
+📦 CompetitiveProgramming
 ┣ 📂LeetCode
 ┃ ┣ 📜TwoSum.cs
 ┃ ┣ 📜LongestCommonPrefix.cs
 ┃ ┗ ...
-┣ 📂HackerRank
 ┣ 📂Codeforces
+┣ 📂HackerRank
+┣ 📂Beecrowd
 ┣ 📜README.md
 
+yaml
+Copiar
+Editar
 
-Each file is named after the problem it solves, and contains a self-contained C# solution.
-
-## 🛠️ Technologies Used
-
-- Language: **C#**
-- Framework: **.NET SDK**
-- IDE: **Visual Studio / VS Code**
-- Optional: NUnit / xUnit for local testing
-
-## 🏁 Goals
-
-- Improve problem-solving skills
-- Prepare for technical interviews
-- Master data structures and algorithms using C#
-- Compete in online contests
-
-## 🤝 Contributions
-
-This is a personal learning repository, but feel free to fork or suggest improvements via pull requests or issues!
-
-## 📬 Contact
-
-Feel free to connect or reach out:
-
-- LinkedIn: [your-profile-link]
-- GitHub: [your-github-link]
+Each folder is named by platform, and files are named according to the problem title for easy navigation.
 
 ---
 
-Happy coding! 🚀
+## 💻 Tech Stack
+
+- **Language:** C#
+- **Framework:** .NET SDK
+- **Editor:** Visual Studio / VS Code
+- **Optional Tools:** xUnit / NUnit for testing
+
+Why C#?  
+> ✅ Strong typing, expressive syntax, powerful LINQ support, and excellent tooling—ideal for mastering algorithmic thinking.
+
+---
+
+## 🥅 My Mission
+
+This repository reflects my dedication to:
+
+- 🔍 Mastering data structures and algorithms
+- 🧠 Developing a problem-solving mindset
+- 🎯 Preparing for technical interviews and coding competitions
+- 💼 Sharpening my C# expertise in real-world scenarios
+
+---
+
+## 🤝 Want to Collaborate?
+
+Although this is a personal study repository, I'm always open to:
+
+- 👀 Code reviews
+- 💬 Discussions about problem-solving strategies
