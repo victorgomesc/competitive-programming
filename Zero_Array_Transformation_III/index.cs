@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 public class Solution
 {
-    public int MaxRemoval(int[] nums, int[][] queries) // Corrigido aqui
+    public int MaxRemoval(int[] nums, int[][] queries) 
     {
         int n = nums.Length, q = queries.Length;
         int[] coverage = new int[n];
