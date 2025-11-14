@@ -53,5 +53,39 @@ Como as listas já vêm **invertidas**, basta percorrer ambas simultaneamente:
 
 ## ⏱️ Complexidade
 
+Tempo: O(max(n, m))
+Memória: O(max(n, m))
+
+
+---
+
+## 📘 Exemplos
+
+### ✔️ Exemplo 1
+**Entrada:**  
+`l1 = [2,4,3], l2 = [5,6,4]`  
+
+**Saída:**  
+`[7,0,8]`  
+
+**Explicação:**  
+342 + 465 = 807
+
+---
+
+### ✔️ Exemplo 2  
+`[0] + [0] = [0]`
+
+---
+
+### ✔️ Exemplo 3  
+`[9,9,9,9,9,9,9] + [9,9,9,9]`  
+Resultado: `[8,9,9,9,0,0,0,1]`
+
+---
+
+
+
+
 
 
